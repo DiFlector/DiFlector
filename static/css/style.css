@@ -63,6 +63,18 @@ h1 {
 	text-decoration: outline;
 }
 
+h2 {
+	font-family: 'Arial Black';
+	color: #ffffff;
+	text-decoration: outline;
+}
+
+h3{
+	font-family: 'Arial Black';
+	color: #ffffff;
+	text-decoration: outline;
+}
+
 i {
 	color: white;
 }
@@ -70,4 +82,10 @@ i {
 .mnav {
 	display: flex;
 	flex-direction: column;
+}
+
+.storage{
+	visibility: hidden;
+	height: 0;
+	width: 0;
 }
