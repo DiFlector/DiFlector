@@ -35,12 +35,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=diflector&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
+  <img src="https://streak-stats.demolab.com?user=diflector&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"/>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=diflector&count_private=true&show_icons=true&include_all_commits=true&theme=radical&title_color=0984e3&bg_color=202020&hide_border=true&count_private=true&hide_title=true&text_color=0984e3">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diflector&hide=ShaderLab,hlsl,glsl&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=radical&bg_color=202020&layout=compact&card_width=250&text_color=0984e3">
 </div>
